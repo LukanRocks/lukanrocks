@@ -3,13 +3,9 @@
 🇧🇷 Brazilian · Product leader turned founder · VTEX (IPO) · TermSheet (acquired)
 Currently building my own products
 
----
-
 ## 👋 About me
 
 I've spent most of my career in product — leading teams, shaping roadmaps, and learning the hard way what makes software actually useful. These days I'm building a company, but I'm just as interested in the craft: how products get made, how small teams ship, and where AI is changing all of it.
-
----
 
 ## 💻 Tech Stack
 
@@ -31,16 +27,12 @@ I've spent most of my career in product — leading teams, shaping roadmaps, and
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
 ## 🧠 What I think about
 
 - Building product orgs that ship without ceremony
 - AI-assisted engineering workflows (currently obsessed with Claude + skills)
 - How software for non-tech industries should actually feel
 - Going from PM to founder — what changes, what doesn't
-
----
 
 ## 📫 Get in touch
 
