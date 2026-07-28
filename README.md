@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lukan
 
 🇧🇷 Brazilian · Product leader turned founder · VTEX (IPO) · TermSheet (acquired)
-Currently building my own products
+Currently building my own things.
 
 ## 👋 About me
 
